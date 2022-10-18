@@ -3,8 +3,6 @@
 
 All prerequisities and original manual for API settup is available at https://developers.google.com/gmail/api/quickstart/python
 
-:warning: The setup is complex, so take your time.
-
 ## How to run
 
 * Clone or download repository
